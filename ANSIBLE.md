@@ -10,13 +10,14 @@ class Structural{}
 
 /**
 *@opt all
-*@note Class
+*@note Class1
 */
 class Counter extends Structural {
         static public int counter;
         public int getCounter();
 }
 class RunningCounter extends Counter{}
+
 
 
 /**
