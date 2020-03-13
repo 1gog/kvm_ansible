@@ -1,6 +1,6 @@
 ![Test diag2](https://raw.githubusercontent.com/1gog/kvm_ansible/master/ANSIBLE.md)
 <details>
-<summary></summary>
+<summary>asd</summary>
 ansible_class
 /**
 *@opt commentname
@@ -17,5 +17,6 @@ class Counter extends Structural {
         public int getCounter();
 }
 class RunningCounter extends Counter{}
+
 ansible_class
 </details>
