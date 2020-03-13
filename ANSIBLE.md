@@ -1,4 +1,4 @@
-![Test diag2](https://raw.githubusercontent.com/1gog/kvm_ansible/master/ANSIBLE.md)
+![Test diag2](https://g.gravizo.com/source/svg/ansible_class?https://raw.githubusercontent.com/1gog/kvm_ansible/master/ANSIBLE.md)
 <details>
 <summary>asd</summary>
 ansible_class
