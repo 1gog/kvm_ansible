@@ -23,13 +23,13 @@ class RunningCounter extends Counter{}
 *@note class and super class
 */
 class SuperAnsible {
-static public int Name;
+        static public int Name;
 }
 
 class Ansible extends SuperAnsible {
-private string Url;
-public int count;
-void get_log();
+        private string Url;
+        public int count;
+        void get_log();
 }
 mark_10
 </details>
