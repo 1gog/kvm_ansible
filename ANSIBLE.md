@@ -27,8 +27,9 @@ static public int Name;
 }
 
 class Ansible extends SuperAnsible {
-private String Url;
+private string Url;
 public int count;
+void get_log();
 }
 mark_10
 </details>
