@@ -25,11 +25,21 @@ class RunningCounter extends Counter{}
 class SuperAnsible {
         static public int Name;
 }
-
 class Ansible extends SuperAnsible {
         private string Url;
         public int count;
         void get_log();
 }
+
+/**
+*@opt all
+*@note Class1
+*/
+class Counter extends People {
+        static public int counter;
+        public int getCounter();
+}
+class Ople extends People{}
+
 mark_10
 </details>
