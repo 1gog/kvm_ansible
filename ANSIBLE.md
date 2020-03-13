@@ -18,5 +18,16 @@ class Counter extends Structural {
 }
 class RunningCounter extends Counter{}
 
+
+class SuperAnsible {
+static public int Name;
+}
+class Ansible extends SuperAnsible {
+private String Url;
+public int count;
+}
+
+
+
 ansible_class
 </details>
