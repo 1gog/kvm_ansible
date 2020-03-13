@@ -1,7 +1,7 @@
-![Test diag2](https://g.gravizo.com/source/svg/ansible_project?https://raw.githubusercontent.com/1gog/kvm_ansible/master/ansible_class.md)
-<detail>
+![Test diag2](https://g.gravizo.com/source/svg/ansible_class?https://raw.githubusercontent.com/1gog/kvm_ansible/master/ansible_class.md)
+<details>
 <summary></summary>
-ansible_project
+ansible_class
 /**
 *@opt commentname
 *@note  some note
@@ -16,5 +16,7 @@ class Counter extends Structural {
         static public int counter;
         public int getCounter();
 }
-ansible_project
-</detail>
+class RunningCounter extends Counter{}
+
+ansible_class
+</details>
