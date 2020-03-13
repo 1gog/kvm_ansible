@@ -30,6 +30,5 @@ class Ansible extends SuperAnsible {
 private String Url;
 public int count;
 }
-
 ansible10
 </details>
