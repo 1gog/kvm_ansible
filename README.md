@@ -8,3 +8,16 @@ digraph ansible_invetory {
 }
 ansible_inventory
 </detail>
+
+
+![Test diag2(https://g.gravizo.com/source/svg/class?https://raw.githubusercontent.com/1gog/kvm_ansible/master/README.md)
+<detail>
+<summary></summary>
+class
+/**
+@note  some note
+*/
+class Structural{}
+
+class
+</detail>
