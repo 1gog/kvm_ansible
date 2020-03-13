@@ -17,6 +17,5 @@ class Counter extends Structural {
         public int getCounter();
 }
 class RunningCounter extends Counter{}
-
 ansible_class
 </details>
