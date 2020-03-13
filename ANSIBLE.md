@@ -1,7 +1,7 @@
-![Test diag2](https://g.gravizo.com/source/svg/ansible_class?https://raw.githubusercontent.com/1gog/kvm_ansible/master/ANSIBLE.md)
+![Test diag2](https://g.gravizo.com/source/svg/ansible10?https://raw.githubusercontent.com/1gog/kvm_ansible/master/ANSIBLE.md)
 <details>
 <summary>asd</summary>
-ansible_class
+ansible10
 /**
 *@opt commentname
 *@note  some note
@@ -31,5 +31,5 @@ private String Url;
 public int count;
 }
 
-ansible_class
+ansible10
 </details>
