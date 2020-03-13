@@ -3,7 +3,7 @@
 <summary></summary>
 ansible_inventory
 digraph ansible_invetory {
-    root -> /opt;
+    "root" -> "/opt";
     
 }
 ansible_inventory
