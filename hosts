@@ -1,0 +1,19 @@
+[web:vars]
+port=6444
+user=ec2user
+stage=dev
+web_https_port=1111
+web_http_port=1010
+
+[web]
+127.0.0.1 web_http_port=8080 web_https_port=8383 user=user1 ansible_connection=local
+127.0.0.2 user=user2 ansible_connection=local
+127.0.0.3 web_http_port=8080 web_https_port=8383 user=user3 ansible_connection=local
+127.0.0.4 web_http_port=8080 web_https_port=8383 ansible_connection=local
+127.0.0.5 web_http_port=8080 web_https_port=8383 ansible_connection=local
+
+[web_docker]
+
+
+[python_tornado]
+10.0.3.189
