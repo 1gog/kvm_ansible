@@ -15,9 +15,18 @@ ansible_inventory
 <summary></summary>
 ansible_class
 /**
-@note  some note
+*@opt commentname
+*@note  some note
 */
 class Structural{}
 
-ansible_class
+/**
+*@opt all
+*@note Class
+*/
+class Counter extends Structural {
+        static public int counter;
+        public int getCounter();
+}
+class
 </detail>
